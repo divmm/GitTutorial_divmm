@@ -1,5 +1,9 @@
-Version 1----
+Phase 1----
 1.BDM
 2.Python
 3.AWS
 -------------
+Phase 2----
+1.TWS
+2.SQL
+-----------
