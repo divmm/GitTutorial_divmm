@@ -1,2 +1,2 @@
 hello, this is version 1 of my project
-I'm making few changes to my project, hence it i project vesion 2
+I'm making a new project, hence it i project vesion 1
